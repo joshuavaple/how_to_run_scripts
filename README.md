@@ -1,2 +1,2 @@
-# import_module_tutorial
-revision of importing modules
+#  how_to_run_scripts
+revision of running scripts and modules
